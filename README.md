@@ -13,7 +13,7 @@
 
 ## ✨ O frontend (React) do projeto se encontra no link:
 
-[https://github.com/marcelogmoura/DotNetAI.UI](https://github.com/marcelogmoura/DotNetAI.UI)
+[https://github.com/marcelogmoura/DotNetAIVoiceTranscription.UI](https://github.com/marcelogmoura/DotNetAIVoiceTranscription.UI)
 
 Uma API em ASP.NET Core desenvolvida para expor um serviço de Transcrição de Voz utilizando o modelo **Whisper** do SDK da OpenAI. A aplicação salva o arquivo de áudio temporariamente para o processamento da transcrição e garante sua exclusão posterior.
 
