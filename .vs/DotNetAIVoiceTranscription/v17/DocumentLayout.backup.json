@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Workspace\\ws_.Net\\DotNetAIVoiceTranscription\\DotNetAIVoiceTranscription\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D819182-DCAF-4FC8-96AC-5C5750B3680D}|DotNetAIVoiceTranscription.API\\DotNetAIVoiceTranscription.API.csproj|c:\\workspace\\ws_.net\\dotnetaivoicetranscription\\dotnetaivoicetranscription\\dotnetaivoicetranscription.api\\controller\\transcriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D819182-DCAF-4FC8-96AC-5C5750B3680D}|DotNetAIVoiceTranscription.API\\DotNetAIVoiceTranscription.API.csproj|solutionrelative:dotnetaivoicetranscription.api\\controller\\transcriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D819182-DCAF-4FC8-96AC-5C5750B3680D}|DotNetAIVoiceTranscription.API\\DotNetAIVoiceTranscription.API.csproj|c:\\workspace\\ws_.net\\dotnetaivoicetranscription\\dotnetaivoicetranscription\\dotnetaivoicetranscription.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9D819182-DCAF-4FC8-96AC-5C5750B3680D}|DotNetAIVoiceTranscription.API\\DotNetAIVoiceTranscription.API.csproj|solutionrelative:dotnetaivoicetranscription.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D819182-DCAF-4FC8-96AC-5C5750B3680D}|DotNetAIVoiceTranscription.API\\DotNetAIVoiceTranscription.API.csproj|c:\\workspace\\ws_.net\\dotnetaivoicetranscription\\dotnetaivoicetranscription\\dotnetaivoicetranscription.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D819182-DCAF-4FC8-96AC-5C5750B3680D}|DotNetAIVoiceTranscription.API\\DotNetAIVoiceTranscription.API.csproj|solutionrelative:dotnetaivoicetranscription.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 243,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TranscriptionController.cs",
+              "DocumentMoniker": "C:\\Workspace\\ws_.Net\\DotNetAIVoiceTranscription\\DotNetAIVoiceTranscription\\DotNetAIVoiceTranscription.API\\Controller\\TranscriptionController.cs",
+              "RelativeDocumentMoniker": "DotNetAIVoiceTranscription.API\\Controller\\TranscriptionController.cs",
+              "ToolTip": "C:\\Workspace\\ws_.Net\\DotNetAIVoiceTranscription\\DotNetAIVoiceTranscription\\DotNetAIVoiceTranscription.API\\Controller\\TranscriptionController.cs",
+              "RelativeToolTip": "DotNetAIVoiceTranscription.API\\Controller\\TranscriptionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T12:25:02.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Workspace\\ws_.Net\\DotNetAIVoiceTranscription\\DotNetAIVoiceTranscription\\DotNetAIVoiceTranscription.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DotNetAIVoiceTranscription.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Workspace\\ws_.Net\\DotNetAIVoiceTranscription\\DotNetAIVoiceTranscription\\DotNetAIVoiceTranscription.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DotNetAIVoiceTranscription.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-12T12:24:34.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Workspace\\ws_.Net\\DotNetAIVoiceTranscription\\DotNetAIVoiceTranscription\\DotNetAIVoiceTranscription.API\\Program.cs",
+              "RelativeDocumentMoniker": "DotNetAIVoiceTranscription.API\\Program.cs",
+              "ToolTip": "C:\\Workspace\\ws_.Net\\DotNetAIVoiceTranscription\\DotNetAIVoiceTranscription\\DotNetAIVoiceTranscription.API\\Program.cs",
+              "RelativeToolTip": "DotNetAIVoiceTranscription.API\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwD4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T11:54:09.886Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 54,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

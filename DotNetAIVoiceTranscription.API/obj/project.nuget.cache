@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "YLd8UazI/mM=",
+  "success": true,
+  "projectFilePath": "C:\\Workspace\\ws_.Net\\DotNetAIVoiceTranscription\\DotNetAIVoiceTranscription\\DotNetAIVoiceTranscription.API\\DotNetAIVoiceTranscription.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marcelo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.0-rc.2.25502.107\\microsoft.aspnetcore.openapi.10.0.0-rc.2.25502.107.nupkg.sha512",
+    "C:\\Users\\Marcelo\\.nuget\\packages\\microsoft.extensions.ai\\9.3.0-preview.1.25161.3\\microsoft.extensions.ai.9.3.0-preview.1.25161.3.nupkg.sha512",
+    "C:\\Users\\Marcelo\\.nuget\\packages\\microsoft.extensions.ai.abstractions\\9.3.0-preview.1.25161.3\\microsoft.extensions.ai.abstractions.9.3.0-preview.1.25161.3.nupkg.sha512",
+    "C:\\Users\\Marcelo\\.nuget\\packages\\microsoft.extensions.ai.openai\\9.3.0-preview.1.25161.3\\microsoft.extensions.ai.openai.9.3.0-preview.1.25161.3.nupkg.sha512",
+    "C:\\Users\\Marcelo\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\Marcelo\\.nuget\\packages\\openai\\2.2.0-beta.4\\openai.2.2.0-beta.4.nupkg.sha512",
+    "C:\\Users\\Marcelo\\.nuget\\packages\\scalar.aspnetcore\\2.1.6\\scalar.aspnetcore.2.1.6.nupkg.sha512",
+    "C:\\Users\\Marcelo\\.nuget\\packages\\system.clientmodel\\1.2.1\\system.clientmodel.1.2.1.nupkg.sha512",
+    "C:\\Users\\Marcelo\\.nuget\\packages\\system.memory.data\\9.0.3\\system.memory.data.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,83 @@
+{
+  "openapi": "3.1.1",
+  "info": {
+    "title": ".NET AI Marcelo API",
+    "description": "This API provides AI-based features such as chat, image generation,  \r\nrecipe creation and audio transcription.  ",
+    "termsOfService": "https://www.allriders.com.br",
+    "contact": {
+      "name": "Marcelo Moura",
+      "url": "https://www.allriders.com.br",
+      "email": "mgmoura@gmail.com"
+    },
+    "license": {
+      "name": "Apache 2 License",
+      "url": "https://www.allriders.com.br"
+    },
+    "version": "v1"
+  },
+  "servers": [
+    {
+      "url": "http://localhost:5075"
+    }
+  ],
+  "paths": {
+    "/ai/transcribe": {
+      "post": {
+        "tags": [
+          "Transcription"
+        ],
+        "requestBody": {
+          "content": {
+            "application/x-www-form-urlencoded": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "ContentType": {
+                    "type": "string"
+                  },
+                  "ContentDisposition": {
+                    "type": "string"
+                  },
+                  "Headers": {
+                    "type": "object",
+                    "additionalProperties": {
+                      "type": "array",
+                      "items": {
+                        "type": "string"
+                      }
+                    }
+                  },
+                  "Length": {
+                    "pattern": "^-?(?:0|[1-9]\\d*)$",
+                    "type": [
+                      "integer",
+                      "string"
+                    ],
+                    "format": "int64"
+                  },
+                  "Name": {
+                    "type": "string"
+                  },
+                  "FileName": {
+                    "type": "string"
+                  }
+                }
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "tags": [
+    {
+      "name": "Transcription"
+    }
+  ]
+}
